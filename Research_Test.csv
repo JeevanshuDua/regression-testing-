@@ -1,0 +1,8 @@
+Case,Target
+All Charctars,Username
+Empty,Username
+7 Charactars,Password
+1 Lower Case,Password
+1 Upper Case,Password
+1 Number,Password
+1 Special Charactar,Password
